@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Jonathan Cristian
 
 🎯 **Desenvolvedor Full-stack** | 💡 Apaixonado por tecnologia, aprendizado contínuo e soluções criativas.  
-Atualmente focado em **desenvolvimento web, back-end, design de sistemas, etc.**.  
+Atualmente focado em **NextJs, Typescript, Mantine, etc**.  
 
 ---
 
